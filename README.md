@@ -1,4 +1,5 @@
-Python game 
+Python game
+-----------------
 
 A simple game made using Pygame library, the goal of the game is to eliminate all opponents using spells. Game ends when you lose all your health points.
 
